@@ -1,4 +1,4 @@
-# WorldClassCamera
+# WorldClass_Camera
 PyQt &amp; OpenCV with WebCam
 
 ## program preview
